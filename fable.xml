@@ -1,6 +1,7 @@
 <fable>
 	<page background="bg.png" soundtrack="Stage.mp3">
-        <agent x=""
+        <agent x="100" y="50" text = "lvlwlef">
+        
   
     
   </page>
