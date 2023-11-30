@@ -1,6 +1,6 @@
 <fable>
 	<page background="bg.png">
         <agent x="40" y="400" text="Este é Davi, filho de Jessé. Davi era um pastor de ovelhas dedicado. Embora de baixa estatura, Davi era muito corajoso. Além disso, Davi era um excelente tocador de harpa"/>
-        <agent x="100" y="50" width="220" height="140" img="Davi.png"/>        
+        <agent x="100" y="50" width="220" height="140" img="Davi_intro.jpg".png"/>        
     </page>
 </fable>
