@@ -4,7 +4,8 @@
             Davi era um pastor de ovelhas dedicado.
             Embora de baixa estatura, Davi era muito corajoso. 
             Além disso, Davi era um excelente tocador de harpa"/>
-        <agent x="100" y="50" width="220" height="280" img="Davi_intro.png"/>        
+        <agent x="100" y="50" width="220" height="280" img="Davi_intro.png"/>  
+        
     </page>
 
     <page background="OIG.jpg">
