@@ -1,7 +1,7 @@
 <fable>
 	<page background="bg.png">
         <agent x="10" y="100" text = "teste"/>
-        
+       <agent img="Davi_intro.jpg" x="300" y="350" width="50" height="50" />
        
   </page>
 </fable>
