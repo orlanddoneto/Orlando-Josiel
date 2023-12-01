@@ -10,6 +10,6 @@
 
     <page background="OIG.jpg" soundtrack="audio2.wav">
        <agent x="180" y="110" width="120" height="120" img="Davi_tocando.png"/> 
-           
-       <agent x="330" y="20" width="100" height="100" img=""/>
+       <agent x="330" y="20" width="100" height="100" img="Sign_back.png" on-touch="_PREV_PAGE"/>       
+       <agent x="330" y="20" width="100" height="100" img="Sign_2.png"/>
 </fable>
