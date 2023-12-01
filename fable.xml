@@ -10,7 +10,7 @@
 
     <page background="OIG.jpg" soundtrack="audio2.wav">
        <agent x="180" y="110" width="120" height="120" img="Davi_tocando.png"/>
-    <agent x="40" y="400" text="Ouç"/>
-       <agent x="330" y="20" width="100" height="100" img="Sign_back.png" on-touch="_PREV_PAGE"/>       
+    <agent x="100" y="320" text="Ouça Davi tocando a sua bela harpa!"/>
+       <agent x="0" y="20" width="100" height="100" img="Sign_back.png" on-touch="_PREV_PAGE"/>       
        <agent x="330" y="20" width="100" height="100" img="Sign_2.png" on-touch="_NEXT_PAGE"/>
 </fable>
