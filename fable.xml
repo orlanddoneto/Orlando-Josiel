@@ -10,6 +10,7 @@
 
     <page background="OIG.jpg">
        <agent x="180" y="110" width="120" height="120" img="Davi_tocando.png"/> 
-       <agent x="50" y="20" width="100" height="100" img="botao_music.png" on-touch=/>
+       <agent x="50" y="20" width="100" height="100" img="botao_music.png" on-touch="music1"/>
+        
        <agent x="330" y="20" width="100" height="100" img="botao_music.png"/>
 </fable>
