@@ -9,5 +9,6 @@
     </page>
 
     <page background="OIG.jpg">
-       <agent x="180" y="110" width="120" height="120" img="Davi_tocando.png"/>    
+       <agent x="180" y="110" width="120" height="120" img="Davi_tocando.png"/> 
+       <agent x="120" y="60" width="60"
 </fable>
