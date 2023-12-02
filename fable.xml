@@ -17,7 +17,8 @@
 
      <page background="background_cena3.jpg">
          <agent x="20" y="350" width="470" height="150" img="ofcBalao_fala.png"/>
-         <agent x="25" y="400" text="Este é o pequenino Davi acompanhado de seus sete irmãos grandalhões e fortes!"/> 
+         <agent x="55" y="435" text="Este é o pequenino Davi acompanhado de seus   
+      sete irmãos grandalhões e fortes!"/> 
          <agent x="220" y="80" width="200" height="200" img="irmaos_davi.png"/>
          <agent x="0" y="120" width="170" height="170" img="profeta_samuel.png"/>
 
