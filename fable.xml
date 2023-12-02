@@ -16,10 +16,12 @@
     </page>
 
      <page background="background_cena3.jpg">
+         <agent x="220" y="80" width="235" height="200" img="irmaos_davi.png"/>
          <agent x="20" y="350" width="550" height="150" img="ofcBalao_fala.png" on-touch="balao_irmaos"/>
          <agent x="55" y="435" text="Este é o pequenino Davi acompanhado de seus sete irmãos grandalhões e fortes!" on-touch="balao_irmaos">
-             <balao_irmaos text="Certo dia, Deus decide que futuramente o próximo rei de Israel deve ser Davi e manda Samuel abençoá-lo" on-touch
+             <balao_irmaos text="Certo dia, Deus decide que futuramente o próximo rei de Israel deve ser Davi e manda Samuel abençoá-lo" on-touch="samuel">
+                 <samuel x="0" y="120" width="170" height="170" img="profeta_samuel.png"/>
          <agent x="220" y="80" width="235" height="200" img="irmaos_davi.png"/>
-         <agent x="0" y="120" width="170" height="170" img="profeta_samuel.png"/>
+         
 
 </fable>
