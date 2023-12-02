@@ -6,7 +6,7 @@
             Além disso, Davi era um excelente harpista."/>
         <agent x="100" y="50" width="300" height="350" img="Davi_intro.png"/>  
         <agent x="440" y="30" width="50" height="50" img="Sign_2.png" on-touch="_NEXT_PAGE"/>
-        <agent x="100" y="50" width="300" height="350" /> 
+        
     </page>
 
     
