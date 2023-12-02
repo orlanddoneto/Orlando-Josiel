@@ -18,6 +18,7 @@
      <page background="background_cena3.jpg">
          <agent x="220" y="80" width="235" height="200" img="irmaos_davi.png"on-trigger="samuel">
              <samuel width="235" height="200" img="davi_solo.png"/>
+         </agent>   
          <agent x="15" y="350" width="600" height="150" img="ofcBalao_fala.png" on-touch="balao_irmaos"/>
          <agent x="55" y="435" img="" text="Este é o pequenino Davi acompanhado de seus sete irmãos grandalhões e fortes!" on-touch="balao_irmaos">
              
