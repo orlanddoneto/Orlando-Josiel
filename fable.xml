@@ -15,6 +15,6 @@
        <agent x="440" y="20" width="50" height="50" img="Sign_2.png" on-touch="_NEXT_PAGE"/>
     </page>
 
-     <page background="ba">
-         <agent x="180" y="110" width="320" height="320" img="irmaos_davi.png"/>
+     <page background="background_cena3.jpg">
+         <agent x="180" y="80" width="220" height="220" img="irmaos_davi.png"/>
 </fable>
