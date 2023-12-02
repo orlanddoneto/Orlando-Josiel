@@ -72,14 +72,14 @@
     </page>
 
      <page background="campo_batalha.jpg" soundtrack="audio_guerra.wav">
-        <agent x="300" y="80" width="180" height="290" img="golias_solo.png"/>
+        <agent x="300" y="80" width="180" height="290" img="golias_solo.png" drop-zone="derrota"/>
         
         <agent x="-35" y="320" width="2000" height="200" img="balao_novoo.png"/>
         
         <agent x="80" y="370" width="300" height="100" text="==Jogue a pedra em Golias=="/>
 
         <agent x="-10" y="80" width="200" height="180" img="Davi_jogando_pedra.png"/>
-        <agent x="130" y="270" width="40" height="40" img="pedra2-removebg-preview.png" draggable="true" on-drop=""/>
+        <agent x="130" y="270" width="40" height="40" img="pedra2-removebg-preview.png" draggable="true" on-drop="derrota"/>
 
          
     
