@@ -17,5 +17,6 @@
 
      <page background="background_cena3.jpg">
          <agent x="180" y="80" width="220" height="220" img="irmaos_davi.png"/>
-         <agent x ="60" y="400" width="200"
+         <agent x ="60" y="400" width="200" height="80" img="ofcBalao_fala.png"/>
+     </page>
 </fable>
