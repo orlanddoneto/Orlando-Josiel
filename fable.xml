@@ -62,7 +62,7 @@
         
         <agent x="-35" y="320" width="2000" height="200" img="balao_novoo.png"/>
 
-        <agent x="0" y="400" width="100" height="100" img="davi_raivoso.png"/>
+        <agent x="0" y="300" width="100" height="100" img="davi_raivoso.png"/>
         
         <agent x="80" y="370" width="300" height="100" text="Quem ousa zombar do exército de Israel?" on-touch="fala_davi">
             <fala_davi text="Você vem contra mim com espada, com lança e com dardo, mas eu vou contra você em nome do Senhor dos Exércitos, o Deus dos exércitos de Israel, a quem você desafiou." on-touch="pedrada"/>
