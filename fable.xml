@@ -16,7 +16,7 @@
     </page>
 
      <page background="background_cena3.jpg">
-         <agent x="220" y="80" width="235" height="200" img="irmaos_davi.png"on-trigg="Davi">
+         <agent x="220" y="80" width="235" height="200" img="irmaos_davi.png" on="Davi">
              <Davi  img="davi_solo.png"/>
          </agent>   
          <agent x="15" y="350" width="600" height="150" img="ofcBalao_fala.png" on-touch="balao_irmaos"/>
