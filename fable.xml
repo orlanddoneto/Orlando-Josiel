@@ -52,9 +52,9 @@
         
         <agent x="80" y="370" width="300" height="100" img="" text="Em mais um conflito entre israelitas e filisteus, eis que surge um gigante: Golias." on-touch="golias">
             <golias text="Golias media 2,92 metros. Devido a sua força e tamanho zombava do povo, dizendo: escolham um soldado de vocês, se ele conseguir me ferir, nós seremos vossos servos HAHAHAHA." on-touch="fala_davi"/>
-            <fala_davi text="Quem ousa zombar do exército de Israel?!"/>
-            <agent x="0" y="120" width="0" height="0" img="davi_raivoso.png" on-trigger="fala_davi">
-                <fala_davi width="100" height="100"/>
+            <fala_davi text="Quem ousa zombar do exército de Israel?!" on-touch="face_davi"/>
+            <agent x="0" y="120" width="0" height="0" img="davi_raivoso.png" on-trigger="face_davi">
+                <face_davi width="100" height="100"/>
             </agent>
         </agent>
         
