@@ -54,6 +54,7 @@
             <golias text="Golias media 2,92 metros. Devido a sua força e tamanho zombava do povo, dizendo: escolham um soldado de vocês, se ele conseguir me ferir, nós seremos vossos servos HAHAHAHA."/>
         </agent>
         <agent x="440" y="20" width="50" height="50" img="Sign_2.png" on-touch="_NEXT_PAGE"/>
+        <agent x="0" y="20" width="50" height="50" img="Sign_back.png" on-touch="_PREV_PAGE"/> 
     </page>
 
 
@@ -69,6 +70,7 @@
                 <pedrada text="Tome pedrada!!!"/>
         </agent>
         <agent x="440" y="20" width="50" height="50" img="Sign_2.png" on-touch="_NEXT_PAGE"/>
+        <agent x="0" y="20" width="50" height="50" img="Sign_back.png" on-touch="_PREV_PAGE"/> 
     </page>
 
      <page background="campo_batalha.jpg" soundtrack="audio_guerra.wav">
@@ -82,6 +84,8 @@
 
         <agent x="-10" y="80" width="200" height="180" img="Davi_jogando_pedra.png"/>
         <agent x="130" y="270" width="40" height="40" img="pedra2-removebg-preview.png" draggable="true" on-drop="derrota"/>
+        <agent x="440" y="20" width="50" height="50" img="Sign_2.png" on-touch="_NEXT_PAGE"/>
+        <agent x="0" y="20" width="50" height="50" img="Sign_back.png" on-touch="_PREV_PAGE"/> 
 
          
     
