@@ -61,7 +61,7 @@
         
         <agent x="-35" y="320" width="2000" height="200" img="balao_novoo.png"/>
         
-        <agent x="80" y="370" width="300" height="100" img="" text="Em mais um conflito entre israelitas e filisteus, eis que surge um gigante: Golias." on-touch="golias">
+        <agent x="80" y="370" width="300" height="100" img="" text="" on-touch="golias">
 
     
         
