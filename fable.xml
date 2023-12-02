@@ -67,7 +67,7 @@
             <fala_davi text="Você vem contra mim com espada, com lança e com dardo, mas eu vou contra você em nome do Senhor dos Exércitos, o Deus dos exércitos de Israel, a quem você desafiou." on-touch="pedrada"/>
                 <pedrada text="Tome pedrada!!!"/>
         </agent>
-        
+    </page>
             
 
     
