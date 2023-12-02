@@ -20,7 +20,7 @@
     </page>
 
      <page background="background_cena3.jpg">
-         <agent x="220" y="80" width="235" height="200" img="irmaos_davi.png" on-touch="Davi">
+         <agent x="220" y="80" width="235" height="200" img="irmaos_davi.png" on="Davi">
              <Davi  img="davi_solo.png"/>
          </agent>   
          
