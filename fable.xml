@@ -16,5 +16,5 @@
     </page>
 
      <page background="background_irmaos.jpg">
-         <agent x="180" y="110" width="120" height="120" img="irmaos_davi.png"/>
+         <agent x="180" y="110" width="320" height="320" img="irmaos_davi.png"/>
 </fable>
