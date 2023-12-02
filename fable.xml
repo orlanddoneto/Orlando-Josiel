@@ -27,7 +27,8 @@
             <balao_irmaos width="170" height="170" on-touch="samuel"/>
             <samuel width="200" height="200"/>
         </agent>         
-         <agent x="220" y="80" width="235" height="200" img="irmaos_davi.png"/>
+         <agent x="220" y="80" width="235" height="200" img="davi_solo.png" on-trigger="samuel">
+             
          
 
 </fable>
