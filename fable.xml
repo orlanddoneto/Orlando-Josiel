@@ -27,7 +27,7 @@
          <agent x="15" y="350" width="600" height="150" img="ofcBalao_fala.png"/>
          
          <agent x="55" y="435" img="" text="Este é o pequenino Davi acompanhado de seus sete irmãos grandalhões e fortes!" on-touch="balao_irmaos">
-             <balao_irmaos text="Certo dia, Deus decide que futuramente o próximo rei de Israel deve ser Davi. E manda Samuel para abençoar Davi." on-touch="samuel"/>  
+             <balao_irmaos text="Certo dia, Deus decide que o próximo rei de Israel deve ser Davi. E manda Samuel para abençoar Davi." on-touch="samuel"/>  
          </agent>
          
         <agent x="0" y="120" width="0" height="0" img="profeta_samuel.png" on-trigger="balao_irmaos">
