@@ -55,7 +55,7 @@
             <fala_davi text="Quem ousa zombar do exército de Israel?!"/>
         </agent>
 
-       <agent x="200" y="200" width="0" height="0" img="davi_raivoso.png" on-trigger="fala_davi">
+      <agent x="0" y="120" width="0" height="0" img= on-trigger="balao_irmaos">
            <fala_davi width="100" height="100"/>
        </agent>   
         
