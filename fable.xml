@@ -16,7 +16,8 @@
     </page>
 
      <page background="background_cena3.jpg">
-         <agent x="220" y="80" width="235" height="200" img="irmaos_davi.png"/>
+         <agent x="220" y="80" width="235" height="200" img="irmaos_davi.png"on-trigger="samuel">
+             <samuel width="235" height="200"/>
          <agent x="15" y="350" width="600" height="150" img="ofcBalao_fala.png" on-touch="balao_irmaos"/>
          <agent x="55" y="435" img="" text="Este é o pequenino Davi acompanhado de seus sete irmãos grandalhões e fortes!" on-touch="balao_irmaos">
              
@@ -27,8 +28,6 @@
             <balao_irmaos width="170" height="170" on-touch="samuel"/>
             <samuel width="200" height="200"/>
         </agent>         
-         <agent x="220" y="80" width="0" height="0" img="davi_solo.png" on-trigger="samuel">
-             <samuel width="235" height="200"/>
          
 
 </fable>
