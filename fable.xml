@@ -45,7 +45,7 @@
 
 
     <page background="campo_batalha.jpg">
-        <agent x="150" y="80" width="200" height="320" img="golias_solo.png"/>
+        <agent x="300" y="80" width="180" height="270" img="golias_solo.png"/>
 
     
     
