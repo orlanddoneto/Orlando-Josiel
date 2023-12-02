@@ -106,7 +106,7 @@
         
         <agent x="190" y="304" width="120" height="120" img="rei_davi2.png"/>
         
-        <agent x="80" y="390" width="300" height="100" text="E por isso, anos mais tarde, após a morte de Saul (primeiro rei de Israel), Davi é coroado rei!" on-touch="rei_davi">
+        <agent x="80" y="390" width="300" height="100" text="Anos mais tarde, após a morte de Saul (primeiro rei de Israel), Davi é coroado rei!" on-touch="rei_davi">
             <rei_davi text="Governando sobre toda Israel e Judá!"/>
         </agent>
         <agent x="440" y="20" width="50" height="50" img="Sign_2.png" on-touch="_NEXT_PAGE"/>
