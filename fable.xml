@@ -31,8 +31,7 @@
          </agent>
          
         <agent x="0" y="120" width="0" height="0" img="profeta_samuel.png" on-trigger="balao_irmaos">
-            <balao_irmaos width="170" height="170" on-touch="samuel"/>
-            <samuel width="200" height="200"/>
+            <balao_irmaos width="170" height="170"/>
         </agent>         
          
 
