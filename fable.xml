@@ -3,9 +3,9 @@
         <agent x="50" y="250" width="400" height="200" text="Este é Davi, filho de Jessé.
             Davi era um pastor de ovelhas dedicado.
             Embora de baixa estatura, Davi era muito corajoso. 
-            Além disso, Davi era um excelente tocador de harpa"/>
-        <agent x="100" y="50" width="220" height="280" img="Davi_intro.png"/>  
-        <agent x="440" y="20" width="50" height="50" img="Sign_2.png" on-touch="_NEXT_PAGE"/>
+            Além disso, Davi era um excelente tocador de harpa."/>
+        <agent x="100" y="50" width="300" height="350" img="Davi_intro.png"/>  
+        <agent x="440" y="30" width="50" height="50" img="Sign_2.png" on-touch="_NEXT_PAGE"/>
     </page>
 
     
