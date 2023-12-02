@@ -19,6 +19,7 @@
        <agent x="440" y="20" width="50" height="50" img="Sign_2.png" on-touch="_NEXT_PAGE"/>
     </page>
 
+    
      <page background="background_cena3.jpg">
          <agent x="220" y="80" width="235" height="200" img="irmaos_davi.png" on-trigger="Davi">
              <Davi x="240" y="80" width="100" height="150" img="davi_solo.png"/>
