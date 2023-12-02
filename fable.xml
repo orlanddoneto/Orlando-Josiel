@@ -13,4 +13,6 @@
     <agent x="100" y="320" text="Ouça Davi tocando a sua bela harpa!"/>
        <agent x="0" y="20" width="50" height="50" img="Sign_back.png" on-touch="_PREV_PAGE"/>       
        <agent x="440" y="20" width="50" height="50" img="Sign_2.png" on-touch="_NEXT_PAGE"/>
+
+     <   
 </fable>
