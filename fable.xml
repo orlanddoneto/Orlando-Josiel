@@ -10,12 +10,12 @@
 
     
     <page background="OIG.jpg" soundtrack="audio2.wav">
-        
        <agent x="180" y="110" width="120" height="120" img="Davi_tocando.png"/>
         
        <agent x="100" y="320" text="Ouça Davi tocando a sua bela harpa!"/>
         
-       <agent x="0" y="20" width="50" height="50" img="Sign_back.png" on-touch="_PREV_PAGE"/>       
+       <agent x="0" y="20" width="50" height="50" img="Sign_back.png" on-touch="_PREV_PAGE"/> 
+        
        <agent x="440" y="20" width="50" height="50" img="Sign_2.png" on-touch="_NEXT_PAGE"/>
     </page>
 
@@ -23,12 +23,13 @@
          <agent x="220" y="80" width="235" height="200" img="irmaos_davi.png" on-touch="Davi">
              <Davi  img="davi_solo.png"/>
          </agent>   
+         
          <agent x="15" y="350" width="600" height="150" img="ofcBalao_fala.png" on-touch="balao_irmaos"/>
+         
          <agent x="55" y="435" img="" text="Este é o pequenino Davi acompanhado de seus sete irmãos grandalhões e fortes!" on-touch="balao_irmaos">
-             
-             <balao_irmaos text="Certo dia, Deus decide que futuramente o próximo rei de Israel deve ser Davi. E manda Samuel para abençoar Davi." on-touch="samuel"/>
-             
+             <balao_irmaos text="Certo dia, Deus decide que futuramente o próximo rei de Israel deve ser Davi. E manda Samuel para abençoar Davi." on-touch="samuel"/>  
          </agent>
+         
         <agent x="0" y="120" width="0" height="0" img="profeta_samuel.png" on-trigger="balao_irmaos">
             <balao_irmaos width="170" height="170" on-touch="samuel"/>
             <samuel width="200" height="200"/>
