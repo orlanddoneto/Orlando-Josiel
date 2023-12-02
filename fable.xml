@@ -24,6 +24,7 @@
              
          </agent>
         <agent x="0" y="120" width="170" height="170" img="profeta_samuel.png" on-trigger="balao_irmaos"/>
+         
          <agent x="220" y="80" width="235" height="200" img="irmaos_davi.png"/>
          
 
